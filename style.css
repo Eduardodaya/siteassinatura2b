@@ -1,3 +1,5 @@
-:root {
-    --branco-principal:var(--branco-principal)
-}
+: root {--branco-principal:#FFFFFF;
+       }
+: root--cinza-secundario:
+
+#C0C0C0;
